@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="miestilo" parent="Theme.MyApplication">
+        <item name="android:background">@drawable/bordes</item>
+    </style>
+</resources>
